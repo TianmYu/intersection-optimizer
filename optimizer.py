@@ -170,9 +170,9 @@ def plotNonDiffEV(title, subplotNum, valArr, vmin, vmax, extent, fig, ax):
 
 def iterateAndPlot():
     # properties
-    minT = 30
-    maxT = 60
-    increment = 30
+    minT = 20
+    maxT = 120
+    increment = 5
     numT = int((maxT-minT)/increment)+1
     nsTimes = np.linspace(minT, maxT, numT)
     ewTimes = np.linspace(minT, maxT, numT)
