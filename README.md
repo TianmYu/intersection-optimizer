@@ -35,7 +35,7 @@ side of the road. strategy A refers to the method of making both crossings at th
 making the west to east crossing immediately, and then crossing north to south at the intersection. Results are obtained from 10,000
 Monte Carlo Samples  
   
-[Matplotlib output of a countour plot and heatmap showing the expected value times for both strategies mentioned above](/Results.png)
+![Matplotlib output of a countour plot and heatmap showing the expected value times for both strategies mentioned above](/Results.png)
 
 
 
